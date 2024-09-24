@@ -1,0 +1,40 @@
+  {
+    "shoes" : [
+    {
+        "id": 1,
+        "product_name": "Wireless Mouse",
+        "price": 25.99,
+        "description": "A sleek and ergonomic wireless mouse for comfortable use."
+    },
+    {
+        "id": 2,
+        "product_name": "Bluetooth Headphones",
+        "price": 59.99,
+        "description": "Noise-cancelling Bluetooth headphones with superior sound quality."
+    },
+    {
+        "id": 3,
+        "product_name": "Portable Charger",
+        "price": 19.99,
+        "description": "Compact portable charger with a 10,000mAh capacity."
+    },
+    {
+        "id": 4,
+        "product_name": "Smart Watch",
+        "price": 129.99,
+        "description": "A smart watch with fitness tracking and notification features."
+    },
+    {
+        "id": 5,
+        "product_name": "HDMI Cable",
+        "price": 9.99,
+        "description": "High-speed HDMI cable for clear audio and video transfer."
+    },
+    {
+        "id": 6,
+        "product_name": "USB-C Hub",
+        "price": 34.99,
+        "description": "A versatile USB-C hub with multiple ports for connectivity."
+    }
+  ]
+}
